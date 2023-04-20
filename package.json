@@ -1,0 +1,17 @@
+{
+  "name": "hugomods-___",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugomods/____.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugomods/____/issues"
+  },
+  "homepage": "https://github.com/hugomods/____",
+  "devDependencies": {
+    "prettier": "^2.8.7",
+    "prettier-plugin-go-template": "^0.0.13"
+  }
+}
