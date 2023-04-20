@@ -11,7 +11,21 @@
   },
   "homepage": "https://github.com/hugomods/____",
   "devDependencies": {
-    "prettier": "^2.8.7",
-    "prettier-plugin-go-template": "^0.0.13"
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "eslint": "^8.34.0",
+    "prettier": "^2.7.1",
+    "prettier-plugin-go-template": "^0.0.13",
+    "stylelint": "^15.1.0",
+    "stylelint-config-standard-scss": "^8.0.0",
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "lint": "npm run eslint && npm run stylelint",
+    "eslint": "npx eslint .",
+    "stylelint": "npx stylelint \"**/*.scss\""
+  },
+  "dependencies": {
+    "stylelint-scss": "^4.4.0"
   }
 }
