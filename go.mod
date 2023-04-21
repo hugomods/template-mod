@@ -1,3 +1,3 @@
-module github.com/razonyang/hugo-mod-____
+module github.com/hugomods/____
 
 go 1.18
