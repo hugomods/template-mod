@@ -18,14 +18,12 @@
     "prettier-plugin-go-template": "^0.0.13",
     "stylelint": "^15.1.0",
     "stylelint-config-standard-scss": "^8.0.0",
+    "stylelint-scss": "^4.4.0",
     "typescript": "^5.0.0"
   },
   "scripts": {
     "lint": "npm run eslint && npm run stylelint",
     "eslint": "npx eslint .",
     "stylelint": "npx stylelint \"**/*.scss\""
-  },
-  "dependencies": {
-    "stylelint-scss": "^4.4.0"
   }
 }
