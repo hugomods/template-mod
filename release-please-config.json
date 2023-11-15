@@ -16,8 +16,7 @@
     "packages": {
         ".": {
             "exclude-paths": [
-            ],
-            "separate-pull-requests": true
+            ]
         }
     }
 }
