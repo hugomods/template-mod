@@ -1,6 +1,6 @@
 # Hugo ____ Module
 
-[![Used By](https://img.shields.io/badge/dynamic/json?color=success&label=used+by&query=repositories_humanize&logo=hugo&style=flat-square&url=https://api.razonyang.com/v1/github/dependents/hugomods/____)](https://github.com/hugomods/____/network/dependents)
+[![Used By](https://flat.badgen.net/github/dependents-repo/hugomods/____?icon=github&label=used+by&color=green)](https://github.com/hugomods/____/network/dependents)
 ![Hugo Requirements](https://img.shields.io/badge/dynamic/json?color=important&label=requirements&query=requirements&logo=hugo&style=flat-square&url=https://api.razonyang.com/v1/hugo/modules/github.com/hugomods/____)
-[![License](https://img.shields.io/github/license/hugomods/____?style=flat-square)](https://github.com/hugomods/____/blob/main/LICENSE)
-[![Version](https://img.shields.io/github/v/tag/hugomods/____?label=version&style=flat-square)](https://github.com/hugomods/____/tags)
+[![License](https://flat.badgen.net/github/license/hugomods/____)](https://github.com/hugomods/____/blob/main/LICENSE)
+[![Version](https://flat.badgen.net/github/tag/hugomods/____)](https://github.com/hugomods/____/tags)
