@@ -1,5 +1,5 @@
 {
-  "extends": "stylelint-config-standard-scss",
+  "extends": "@hugomods/stylelint-config",
   "rules": {
     "at-rule-no-unknown": null,
     "color-function-notation": null,
