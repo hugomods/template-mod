@@ -3,7 +3,5 @@
   "compilerOptions": {
     "preserveConstEnums": true,
     "strictNullChecks": true
-  },
-  "include": ["assets/**/*"],
-  "exclude": ["node_modules"]
+  }
 }
